@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/publish/Xg-Push-SDK-Android/Other-Platform-SO
+/publish/Xg-Push-SDK-Android/libs
